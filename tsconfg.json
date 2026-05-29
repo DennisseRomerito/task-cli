@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "strict": true, //para que no se use any
+        "rootDir": "./src", //por buenas prácticas se crea la carpeta de src, aquí van todos los arhcivos .ts
+        "outDir": "./dist" //dónde queremos que viva la compilación, donde se crean acrhivos .js. Se generan toda lo compilación de archivos .ts a .js
+        // con esto ya se puede empezar a trabajar
+    }
+}
